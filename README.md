@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Improving my Skills in C language**
 
-- 🌱 I’m currently learning **Java OOP**
+- 🌱 I’m currently learning **microcontroller interfacing**
 
 - 📫 How to reach me **usufelsayed@gmail.com**
 
