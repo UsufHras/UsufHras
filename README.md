@@ -8,6 +8,9 @@
 - 📫 How to reach me **usufelsayed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+- **Email:** usufelsayed@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/yousef-hras-5b1322239/))
 <p align="left">
 </p>
 
